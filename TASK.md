@@ -243,16 +243,18 @@ npm run dev
 
 Visit:
 - Backend API → http://localhost:3001  
-- VMC WebSocket → ws://localhost:3002  
+ 
 - Frontend UI → http://localhost:5173/products  
 
 ---
 
 ## 🌟 Extended Goals (Optional)
+- 📈 **Connect with WebSocket VMC** → Using WebSocket Mock VMC integration
 - 🕒 **Screen Saver / Idle Mode** → Trigger after 2 min inactivity  
 - 💳 **Payment Gateway Mock** → Razorpay/Stripe integration  
 - 💅 **Enhanced UI/UX** → Animations, responsive layout, smooth transitions  
 - 📈 **Analytics** → Log vending events and user actions  
+
 
 ---
 
